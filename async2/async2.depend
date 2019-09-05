@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1567652431 source:d:\cs\c++\cpluspluspractice\async2\aync2.cpp
+	<future>
+	<list>
+	<iostream>
+	<exception>
+
